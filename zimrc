@@ -1,0 +1,17 @@
+zmodule environment
+zmodule git
+zmodule input
+zmodule termtitle
+zmodule utility
+zmodule git-info
+zmodule magicmace
+zmodule archive
+zmodule completion
+zmodule steeef
+
+zmodule zsh-users/zsh-completions
+zmodule zsh-users/zsh-autosuggestions
+#zmodule zsh-users/zsh-syntax-highlighting
+zmodule zdharma/fast-syntax-highlighting
+zmodule zsh-users/zsh-history-substring-search
+zmodule Aloxaf/fzf-tab
